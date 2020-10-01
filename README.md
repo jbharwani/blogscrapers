@@ -1,8 +1,10 @@
 # blogscrapers
 
 Need to install scrapy and selenium
+```
 	pip install scrapy
 	pip install selenium
+```
 
 This package provides python scripts that can be used to scrape every archived blog posts from blogspot, wordpress, and typepad. The scripts make the assumption that the sites follow a certain HTML structure. The following sites are examples of compatible blogs. 
 
